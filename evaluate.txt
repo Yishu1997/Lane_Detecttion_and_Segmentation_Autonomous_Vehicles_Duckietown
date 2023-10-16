@@ -1,0 +1,1 @@
+python evaluate.py --model_variant=shufflenet_v2 --eval_crop_size=1025 --eval_crop_size=2049 --output_stride=16 --eval_logdir=./logs/eval --checkpoint_dir=./logs --dataset=duckietown --dataset_dir=C:/Yishu/data_bezeir_only/tfrecords_val/
